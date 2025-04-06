@@ -45,8 +45,8 @@ A API fornece um CRUD completo para gerenciamento de vendas, incluindo:
 ### 📥 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/lunascimento/Ambev.git
+cd Ambev/src
 ```
 
 ### 🐳 2. Iniciar os Containers Docker

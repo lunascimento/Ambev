@@ -121,10 +121,5 @@ src/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome], como parte de um processo seletivo técnico.
+Desenvolvido por [Luciano Nascimento], como parte de um processo seletivo técnico.
 
----
-
-## 📃 Licença
-
-Este projeto está licenciado sob os termos da licença MIT.

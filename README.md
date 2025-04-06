@@ -92,8 +92,6 @@ dotnet test
 As pastas de testes seguem esta organização:
 
 - `Tests.Unit`: Cobertura de regras de negócio
-- `Tests.Integration`: Cobertura de integração com repositórios
-- `Tests.Functional`: Fluxos completos e simulações de uso
 
 ---
 
